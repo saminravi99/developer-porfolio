@@ -30,15 +30,35 @@
     display: flex;
     background-image: url(/img/top-banner.png);
     background-repeat: no-repeat;
-   
+    margin-bottom: 4%;
     justify-content: space-between;
 }
 a{
     text-decoration: none;
-      text-decoration: none;
+    text-decoration: none;
     background: linear-gradient(45deg, lightsalmon, tomato);
     padding: 10px 40px;
     border-radius: 5px;
     color: white;
     font-weight: 700;
+}
+.second-section{
+    display: flex;
+    background-image: url(/img/dream-bg.png);
+    background-repeat: no-repeat;
+   background-position: right;
+    justify-content: space-around;
+}
+.my-img-2{
+    width: 70%;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.intro-img-2{
+    margin-top: -106px;
+}
+.right-intro{
+    margin-right: 12%;
+    margin-top: 7%;
 }
