@@ -24,17 +24,16 @@
 .intro-img{
     margin-top: -94px;
 }
-   
 
 .fisrt-section{
     display: flex;
-    background-image: url(./img/top-banner.png);
+    background-image: url('../img/top-banner.png');
     background-repeat: no-repeat;
     margin-bottom: 1%;
     justify-content: space-between;
 }
+
 a{
-    text-decoration: none;
     text-decoration: none;
     background: linear-gradient(45deg, lightsalmon, tomato);
     padding: 10px 40px;
@@ -44,9 +43,9 @@ a{
 }
 .second-section{
     display: flex;
-    background-image: url(./img/dream-bg.png);
+    background-image: url('../img/dream-bg.png');
     background-repeat: no-repeat;
-   background-position: right;
+    background-position: right;
     justify-content: space-around;
 }
 .my-img-2{
@@ -97,7 +96,7 @@ a{
     margin-left: 5%;
 }
 .third-section{
-    background-image: url("./img/exp-bg.png");
+    background-image: url('../img/exp-bg.png');
     background-repeat: no-repeat;
     background-position: left;
 }
