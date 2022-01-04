@@ -1,0 +1,21 @@
+CSS File Link করার জন্য 
+
+<link rel="stylesheet" href="css/style.css">
+
+[href="css/style.css এখানে css এর আগে কোন Dot বা Slash হবে না]
+
+
+
+
+image source থেকে link করার জন্য
+
+<img class="my-img-2" src="img/ravi-bg-2nd.png" alt=""> 
+
+[src="img/ravi-bg-2nd.png" এখানে img এর আগে কোন ডট বা slash হবে না]
+
+
+
+StyleSheet এ style.css এ background image link করার জন্য
+
+background-image: url('../img/top-banner.png');
+[ url('../img/top-banner.png'); এখানে ইমেজের আগে Double Dot এরপর Slash দিতে হবে]
