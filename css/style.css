@@ -4,3 +4,41 @@
     padding: 0;
     
 }
+
+.left-intro{
+    padding: 4%;
+}
+
+.my-name{
+    color: salmon;
+    font-weight: 700;
+}
+.intro1{
+    font-size: 50px;
+    font-weight: 700;
+}
+.my-img{
+    width: 80%;
+}
+
+.intro-img{
+    margin-top: -94px;
+}
+   
+
+.fisrt-section{
+    display: flex;
+    background-image: url(/img/top-banner.png);
+    background-repeat: no-repeat;
+   
+    justify-content: space-between;
+}
+a{
+    text-decoration: none;
+      text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
