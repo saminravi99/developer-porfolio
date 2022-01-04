@@ -94,8 +94,9 @@ a{
     text-align: center;
 }
 #exp{
-    font-size: 40px;
+    font-size: 60px;
     margin-left: 5%;
+    text-align: center;
 }
 .third-section{
     background-image: url('../img/exp-bg.png');
